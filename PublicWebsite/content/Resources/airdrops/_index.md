@@ -570,6 +570,21 @@ Official Telegram - https://t.me/podone
 Chrome Extension Tool
 Official Telegram - https://t.me/Scatter
 
+### Seedmap
+ * __Account Contract Address:__ ??
+ * __Symbol:__ SBT
+ * __Ratio:__ 0.2 for 1
+ * __Airdrop Supply:__ 20 mil
+ * __Total Supply:__ 80 mil
+ * __Snapshot:__ June 2018	
+ * __Airdrop Started:__ No
+ * __Registration:__ No
+ * __Website:__ https://seedmap.com.au
+ 
+##### Notes
+SaSS project building application
+Official Twitter - https://twitter.com/SeedmapAU
+
 ### Tokena
  * __Account Contract Address:__ ??
  * __Symbol:__ KEN
